@@ -2,6 +2,18 @@
 layout: homepage
 ---
 
+<style>
+  a.pub-author {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  a.pub-author:hover {
+    color: #39c;
+    text-decoration: underline;
+  }
+</style>
+
 ## About Me
 
 I am a second year Ph.D. student in Computer Science at the School of Computing and Data Science, The University of Hong Kong, advised by Prof. <a href="https://fwm94.github.io/" target="_blank" rel="noopener">Weiming Feng</a>.
@@ -18,28 +30,28 @@ Prior to this, I received my B.Eng. in Computer Science from Yao Class, Institut
 
 ## Publications
 
-1. Approximating the total variation distance between spin systems  
-   <a class="pub-author" style="color: #000;" href="https://fwm94.github.io/" target="_blank" rel="noopener">Weiming Feng</a>, <a class="pub-author" style="color: #000;" href="https://lhy-gispzjz.github.io/" target="_blank" rel="noopener">Hongyang Liu</a>, Minji Yang  
-   COLT 2025  
-   [arXiv](https://arxiv.org/abs/2502.05437)
+1. Rapid mixing in positively weighted restricted Boltzmann machines  
+   <a class="pub-author" href="https://fwm94.github.io/" target="_blank" rel="noopener">Weiming Feng</a>, <a class="pub-author" href="https://homepages.inf.ed.ac.uk/hguo/" target="_blank" rel="noopener">Heng Guo</a>, Minji Yang  
+   FOCS 2026  
+   [arXiv](https://arxiv.org/abs/2604.00963)
 
 
-2. Rapid Mixing of Glauber Dynamics for Monotone Systems via Entropic Independence  
-   <a class="pub-author" style="color: #000;" href="https://fwm94.github.io/" target="_blank" rel="noopener">Weiming Feng</a>, Minji Yang  
-   SODA 2026  
-   [arXiv](https://arxiv.org/abs/2507.11031)
-
-
-3. On Computing Total Variation Distance Between Mixtures of Product Distributions  
-   <a class="pub-author" style="color: #000;" href="https://fwm94.github.io/" target="_blank" rel="noopener">Weiming Feng</a>, Yucheng Fu, Minji Yang, Anqi Zhang  
+2. On Computing Total Variation Distance Between Mixtures of Product Distributions  
+   <a class="pub-author" href="https://fwm94.github.io/" target="_blank" rel="noopener">Weiming Feng</a>, Yucheng Fu, Minji Yang, Anqi Zhang  
    RANDOM 2026  
    [arXiv](https://arxiv.org/abs/2605.03839)
 
 
-4. Rapid mixing in positively weighted restricted Boltzmann machines  
-   <a class="pub-author" style="color: #000;" href="https://fwm94.github.io/" target="_blank" rel="noopener">Weiming Feng</a>, <a class="pub-author" style="color: #000;" href="https://homepages.inf.ed.ac.uk/hguo/" target="_blank" rel="noopener">Heng Guo</a>, Minji Yang  
-   FOCS 2026  
-   [arXiv](https://arxiv.org/abs/2604.00963)
+3. Rapid Mixing of Glauber Dynamics for Monotone Systems via Entropic Independence  
+   <a class="pub-author" href="https://fwm94.github.io/" target="_blank" rel="noopener">Weiming Feng</a>, Minji Yang  
+   SODA 2026  
+   [arXiv](https://arxiv.org/abs/2507.11031)
+
+
+4. Approximating the total variation distance between spin systems  
+   <a class="pub-author" href="https://fwm94.github.io/" target="_blank" rel="noopener">Weiming Feng</a>, <a class="pub-author" href="https://lhy-gispzjz.github.io/" target="_blank" rel="noopener">Hongyang Liu</a>, Minji Yang  
+   COLT 2025  
+   [arXiv](https://arxiv.org/abs/2502.05437)
 
 ## Talks
 
