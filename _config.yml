@@ -1,0 +1,38 @@
+remote_theme: yaoyao-liu/minimal-light
+
+plugins:
+  - jekyll-remote-theme
+
+# Basic Information
+title: Minji Yang
+position: Ph.D. Student
+affiliation: The University of Hong Kong
+email: ymjessen02 (at) connect.hku.hk
+
+# Search Engine Optimization
+keywords: theoretical computer science, algorithms, spin systems, Markov chains, Glauber dynamics, total variation distance
+description: Academic homepage of Minji Yang, a Ph.D. student in Computer Science at The University of Hong Kong.
+canonical:
+
+# Links
+google_scholar: https://scholar.google.com/citations?user=D1v--xgAAAAJ
+cv_link: cv.pdf
+github_link:
+linkedin:
+twitter:
+
+# Images
+avatar: 
+favicon:
+favicon_dark:
+
+# Theme options
+enable_footnote: true
+auto_dark_mode: true
+font: "Serif"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
