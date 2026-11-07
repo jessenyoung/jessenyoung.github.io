@@ -16,7 +16,7 @@ layout: homepage
 
 ## About Me
 
-I am a second year Ph.D. student in Computer Science at the School of Computing and Data Science, The University of Hong Kong, advised by Prof. <a href="https://fwm94.github.io/" target="_blank" rel="noopener">Weiming Feng</a>.
+I am a third year Ph.D. student in Computer Science at the School of Computing and Data Science, The University of Hong Kong, advised by Prof. <a href="https://fwm94.github.io/" target="_blank" rel="noopener">Weiming Feng</a>.
 
 My research interests are in theoretical computer science, with a focus on sampling and counting.
 
@@ -30,30 +30,42 @@ Prior to this, I received my B.Eng. in Computer Science from Yao Class, Institut
 
 ## Publications
 
-1. Rapid mixing in positively weighted restricted Boltzmann machines  
+1. Deterministic Approximation of the Total Variation Distance Between Spin Systems  
+   Zelin Li, Minji Yang  
+   ITCS 2027  
+   [arXiv](https://arxiv.org/abs/2610.11812)
+
+
+2. Rapid mixing in positively weighted restricted Boltzmann machines  
    <a class="pub-author" href="https://fwm94.github.io/" target="_blank" rel="noopener">Weiming Feng</a>, <a class="pub-author" href="https://homepages.inf.ed.ac.uk/hguo/" target="_blank" rel="noopener">Heng Guo</a>, Minji Yang  
    FOCS 2026  
    [arXiv](https://arxiv.org/abs/2604.00963)
 
 
-2. On Computing Total Variation Distance Between Mixtures of Product Distributions  
+3. On Computing Total Variation Distance Between Mixtures of Product Distributions  
    <a class="pub-author" href="https://fwm94.github.io/" target="_blank" rel="noopener">Weiming Feng</a>, Yucheng Fu, Minji Yang, Anqi Zhang  
    RANDOM 2026  
    [arXiv](https://arxiv.org/abs/2605.03839)
 
 
-3. Rapid Mixing of Glauber Dynamics for Monotone Systems via Entropic Independence  
+4. Rapid Mixing of Glauber Dynamics for Monotone Systems via Entropic Independence  
    <a class="pub-author" href="https://fwm94.github.io/" target="_blank" rel="noopener">Weiming Feng</a>, Minji Yang  
    SODA 2026  
    [arXiv](https://arxiv.org/abs/2507.11031)
 
 
-4. Approximating the total variation distance between spin systems  
+5. Approximating the total variation distance between spin systems  
    <a class="pub-author" href="https://fwm94.github.io/" target="_blank" rel="noopener">Weiming Feng</a>, <a class="pub-author" href="https://lhy-gispzjz.github.io/" target="_blank" rel="noopener">Hongyang Liu</a>, Minji Yang  
    COLT 2025  
    [arXiv](https://arxiv.org/abs/2502.05437)
 
-## Talks
+## Preprint
+
+1. Competitive Equilibrium for Linear Chores is CLS-complete  
+   Qian Liu, Shinuo Ma, <a class="pub-author" href="https://tomtao26.github.io/" target="_blank" rel="noopener">Yixin Tao</a>, Minji Yang, <a class="pub-author" href="https://weiqiang-zheng.com/" target="_blank" rel="noopener">Weiqiang Zheng</a>  
+   [arXiv](https://arxiv.org/abs/2611.06589)
+
+## Talk
 
 - Rapid Mixing of Glauber Dynamics for Monotone Systems via Entropic Independence 
   SODA 2026, Jan. 13, 2026, Vancouver
